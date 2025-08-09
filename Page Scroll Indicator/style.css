@@ -41,3 +41,12 @@ section h1 {
   background: linear-gradient(30deg, #21d4fd, #b721ff);
   transition: width 0.1s;
 }
+.scroll-indicator .progress {
+  height: 100%;
+  width: 0;
+  border-radius: 3px;
+  /* https://www.grabient.com/ */
+  background: linear-gradient(30deg, #21d4fd, #b721ff);
+  transition: width 0.1s;
+}
+
